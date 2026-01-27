@@ -1,4 +1,4 @@
-package LogicaNelioAlves;
+package BeeCrowd;
 
 import java.util.Scanner;
 
@@ -13,14 +13,14 @@ public class Uri1008 {
 
         int number;
         int hour;
-        double perHour;
+        double porHora;
         double salary;
 
         number = sc.nextInt();
         hour = sc.nextInt();
-        perHour = sc.nextDouble();
+        porHora = sc.nextDouble();
 
-        salary = perHour*hour;
+        salary = porHora *hour;
         System.out.println("NUMBER = " + number);
         System.out.printf("SALARY = U$ %.2f%n", salary);
 

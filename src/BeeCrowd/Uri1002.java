@@ -1,4 +1,4 @@
-package LogicaNelioAlves;
+package BeeCrowd;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
 A fórmula para calcular a área de uma circunferência
 é: area = N . raio^2. Considerando para este problema que N = 3.14159:
  */
-public class URI1002 {
+public class Uri1002 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
